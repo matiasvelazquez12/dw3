@@ -1,0 +1,2 @@
+ul li{display:inline-block}ul li:hover::before,ul li:hover::after{width:100%}ul li::before,ul ul li::after{content:"";display:block;height:2px;background:red;width:0;-webkit-transition:width 0.5s;transition:width 0.5s;margin:5px auto}ul li::before{margin:5px auto 5px 0;-webkit-transition:width 0.5s 0.5s;transition:width 0.5s 0.5s}ul li::after{margin:5px 0 5px auto}ul li a{text-decoration:none;padding:10px}ul li a::hover{color:red}
+/*# sourceMappingURL=estilosgeneral.min.css.map */
